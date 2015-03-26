@@ -4,7 +4,7 @@
   "description": "minimal event interface",
   "main": "index.js",
   "scripts": {
-    "build": "babel -o dest/eve.js src/eve.js",
+    "build": "babel -o dist/eve.js src/eve.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
